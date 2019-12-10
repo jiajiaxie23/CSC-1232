@@ -1,5 +1,5 @@
 # CSC-1232
-Introduction to Program Design, c++
+Introduction to Program Design, c++ at Presbyterian College
 
 # Game for fun while taking this class
 
