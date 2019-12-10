@@ -5,4 +5,6 @@ Introduction to Program Design, c++
 
 1. lottery
 2. stars
-3. game_combo
+3. game_combo (run the hangmen cpp)
+
+
